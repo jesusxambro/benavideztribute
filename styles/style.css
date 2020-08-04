@@ -1,0 +1,71 @@
+::selection {
+    background: #34495e;
+    color: #fff;
+  }
+  body{
+    background-color: #34495e;
+  }
+  #main{
+    margin-top: 2em;
+    margin-bottom: 5em;
+    /*margin-left: 4em;
+    margin-right: 4em;
+    background-color: steelblue; */
+  }
+  .card{
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    
+  }
+  #title{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    font: lobster;
+    
+  }
+  #tribute-link {
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+  }
+  .title{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    font: lobster;
+    
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+  #tribute-info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #img-caption {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+  }
+  #image{
+    max-width: 100%;
+    height: auto;
+    
+  }
